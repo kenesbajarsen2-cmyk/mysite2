@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</title>первые стихи </title>
+<body text="#0000ff">
+<p align=center></p>
+<font face="arial Black"><font color=#ff0000>
+<big>привет! Это моя первая страничка!></big></font>
+<font color="#ffff00">
+<h1 align=left>Меня зовут </h1>
+<h2 align=center> я учусь в классе </h2>
+<h3 align=right> Это моя любимая песенка </h3> </font>
+<p align=left><font face ="comic sans MS">В лесу родилась <i>елочка</i> <br>      
+В лесу она росла.</font><br>         </p>
+<font face ="courier new"> Зимой и летом стройная,<br>
+<font color="green">Зеленая</font> была.<br></font>
+<b>Метель</b>ей пела песенку :<br>
+<font face="Monotype Corsiva">"спи ,елочка , бай-бай"</font><br>
+<b><i>Мороз </i></b> снежком укутывал:<br>
+<font face="monotype corsiva">
+"Смотри не замерзай!"</font>
+ </body>
+ </html>
